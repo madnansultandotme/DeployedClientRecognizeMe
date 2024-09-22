@@ -1,0 +1,7 @@
+.venv/
+build/
+dist/
+app_icon.app_icon
+app.py
+desktop_app.spec
+test.py
